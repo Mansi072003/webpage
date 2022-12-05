@@ -1,0 +1,131 @@
+* {
+    transition: 400ms;
+}
+
+.btn-cus {
+    border: 1px solid rgb(246, 246, 246);
+}
+
+.or {
+    color: rgb(255, 255, 255);
+}
+p.lead-mb{
+    color:aliceblue;
+    font-weight: bold;
+}
+.bl {
+    color: rgb(255, 200, 118);
+}
+
+.navbar{
+    height:50px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+nav div {
+    margin-top: 1.7%;
+    
+}
+
+.Main_Head{
+    margin-top: 1%;
+    font-weight: bolder;
+}
+
+.hero {
+    background-image: url("../image/home-banner1.jpg");
+    background-size: cover;
+}
+
+.fa-basket-shopping {
+    color: rgb(255, 198, 93);
+}
+
+.fab:hover {
+    color: rgb(255, 199, 96);
+}
+
+footer a {
+    text-decoration:none;
+}
+
+footer a:hover {
+    margin-left: 10px;
+}
+
+.review{
+    
+    background-color: white;
+    border-radius: 10px;
+    
+}
+
+.review:hover{
+
+    border: 2px solid black;
+    transition:0s;
+}
+
+
+.review p{
+
+    margin-top: 8px;
+}
+
+.review h3{
+    
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.review img{
+    
+    margin-top: 30px;
+    border-radius: 50%;
+}
+
+
+.Blogs{
+
+    margin-top: 50px;
+}
+
+
+.Blogs .col{
+
+    margin-bottom: 30px;
+}
+
+.Blogs .card-body a{
+
+    border: 2px solid black;
+    color: black;
+}
+
+.Blogs .card-body a:hover{
+
+    border: 2px solid black;
+    background-color: rgb(154, 123, 62);
+    color: rgb(255, 172, 172);
+}
+
+
+.User{
+
+    border-bottom: 2px solid #e5e5e5;
+}
+
+
+.fa-user{
+
+    color: rgb(255, 194, 81);
+}
+
+.card img {
+    height: 200px;
+}
+
+.card-body {
+    text-align: left;
+}
